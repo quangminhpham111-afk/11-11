@@ -1,0 +1,10 @@
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\bin\Debug\net48\RetailSales.exe.config
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\bin\Debug\net48\RetailSales.exe
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\bin\Debug\net48\RetailSales.pdb
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.csproj.AssemblyReference.cache
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.AssemblyInfoInputs.cache
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.AssemblyInfo.cs
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.csproj.CoreCompileInputs.cache
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.exe
+C:\Users\Min min\OneDrive\Desktop\Bai6.1_RetailSales\RetailSales\obj\Debug\net48\RetailSales.pdb
